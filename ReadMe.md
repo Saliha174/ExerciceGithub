@@ -13,4 +13,4 @@ Initialiser un git
 
 ### Image
 
-![Olivier : Arbre de paix](img/R.jpg)
+![Olivier : Arbre de paix](image/R.jpg)
