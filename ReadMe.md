@@ -11,6 +11,6 @@ Initialiser un git
 `git init` => équivalent de mettre en commentaire
 `<h1>Exemple de non interprétation de balise </h1>`
 
-### Image
+### Image essai
 
 ![Olivier : Arbre de paix](image/R.jpg)
